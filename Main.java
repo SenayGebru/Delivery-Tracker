@@ -1,5 +1,5 @@
 /**
- * This project updates the original program so it can be expanded for more than 20 drivers and additional delivery points. 
+ * This project updates the Fighter patrols program so it can be expanded for more than 20 drivers and additional delivery points. 
  * Furthermore, it searches and sorts the data accordingly into linkedlists.
  * @author Senay Gebru 
  * NETID: STG230001
